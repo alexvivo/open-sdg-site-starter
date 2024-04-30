@@ -39,3 +39,7 @@ exclude:
   - README.md
   - LICENSE
 
+custom_js:
+   - /assets/js/uswds.min.js
+
+
